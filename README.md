@@ -9,5 +9,5 @@ Here is one of my best creations:
 
 A multipurpose Discord bot mainly focused on server management and moderation with a few other fun and utility commands!
 
-Join the Discord server
+**Join the Discord server**
 <p><a href="https://discord.gg/6snqDwAPK9"><img src="https://discordapp.com/api/guilds/808624079736668160/widget.png?style=banner3" alt="Discord"></a></p>
